@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Secure Student Browsing",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "An AI-powered browser extension to protect students from phishing, malware, and weak passwords.",
+    "description": "Description of the extension."
+  }
+}
